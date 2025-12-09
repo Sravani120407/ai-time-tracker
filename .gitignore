@@ -1,0 +1,7 @@
+
+js/firebase-config.example.js
+
+# system files
+.DS_Store
+.vscode/
+node_modules/
